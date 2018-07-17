@@ -1,5 +1,5 @@
 # Two
-## [![Build Status](https://travis-ci.org/hansuMbale/Two.svg?branch=master)](https://travis-ci.org/hansuMbale/Two)https://img.shields.io/coveralls/github/hansuMbale/Two/master.svg [![Maintainability](https://api.codeclimate.com/v1/badges/cd1f6611691031dfa11c/maintainability)](https://codeclimate.com/github/hansuMbale/Two/maintainability)
+## [![Build Status](https://travis-ci.org/hansuMbale/Two.svg?branch=master)](https://travis-ci.org/hansuMbale/Two)[![Coverage Status](https://coveralls.io/repos/github/hansuMbale/Two/badge.svg?branch=master)](https://coveralls.io/github/hansuMbale/Two?branch=master)(https://api.codeclimate.com/v1/badges/cd1f6611691031dfa11c/maintainability)](https://codeclimate.com/github/hansuMbale/Two/maintainability)
 This creates a set of API endpoints that allows the user to get all their requests, get a specific request, create and modify a request and use data structures to store data in memory.
 
 # Prerequisites:
